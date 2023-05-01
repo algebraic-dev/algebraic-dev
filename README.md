@@ -4,7 +4,7 @@
 </h3>
 
 ## ☄️ About Me 
-Hi, I'm a 20yo that likes to program some crazy or useless tools in pure functional programming languages. Currently, I am trying to get a job with some of the languages that i use. 
+Hi, I'm a 20yo cute girl that likes to program some crazy or useless tools in pure functional programming languages. Currently, I am trying to get a job with some of the languages that i use. 
 
 ## 💌 Things i like
 - ⚗️ I love *magic*, like in the movies or games, so I try to do a lot of things related to that. 
