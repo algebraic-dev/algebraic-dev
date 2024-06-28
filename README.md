@@ -10,6 +10,5 @@ Hi, I'm a 21yo cute girl that likes to program some crazy or useless tools in pu
 - 4️⃣ **Lean4** Useful to make your programs stronger with the use of dependent types
 
 ## 😗 How to contact me?
-- **Discord:** algebraic.sofia
-- **Email:** sofia@algebraic.dev
-- **Smoke signal:** 🌬️☁️🌬️☁️🌬️🌬️☁️☁️🌬️☁️🌬️🌬️☁️☁️☁️☁️🌬️☁️🌬️🌬️🌬️☁️☁️🌬️🌬️☁️🌬️🌬️☁️🌬️🌬️☁️🌬️☁️🌬️🌬️🌬️🌬️🌬️☁️
+- **Discord:** the.sofi.uwu
+- **Email:** me@sofiuwu.com
