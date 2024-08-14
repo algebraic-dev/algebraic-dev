@@ -14,8 +14,8 @@ info:
 </ul>
 contact:
 <ul>
-  <li>discord: <a href="https://discord.com/invite/Enz2368v"><code>algebraic.dev</code></a></li>
-  <li>email: <a href="mailto:sofia@algebraic.dev"><code>sofia@algebraic.dev</code></a></li>
-  <li>blog: <a href="https://www.algebraic.dev/"><code>https://www.algebraic.dev/</code></a></li>
+  <li>discord: <a href="https://discord.com/invite/Enz2368v">algebraic.dev</a></li>
+  <li>email: <a href="mailto:sofia@algebraic.dev">sofia@algebraic.dev</a></li>
+  <li>blog: <a href="https://www.algebraic.dev/">https://www.algebraic.dev/</a></li>
 </ul>
 </samp>
