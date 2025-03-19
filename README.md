@@ -7,7 +7,7 @@ I'm <i>Sofia</i>, a <b>22yo</b> software engineer.
 <br>
 info:
 <ul>
-  <li>i love working with <b>lean4</b> and <b>rust</b></li>
+  <li>i love working with <b>lean4</b>
   <li>pronouns: <i>she/her</i> 🌸</li>
   <li>brazilian 🇧🇷 (<abbr title="Portuguese - Brazil">pt-br</abbr> / <abbr title="English">en</abbr>)</li>
   <li>i work at lean fro</li>
