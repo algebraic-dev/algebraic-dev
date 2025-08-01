@@ -2,7 +2,7 @@
 hi! 
 <br>
 <br>
-I'm <i>Sofia</i>, a <b>22yo</b> software engineer.
+I'm <i>Sofia</i>, a <b>23yo</b> software engineer.
 <br>
 <br>
 info:
